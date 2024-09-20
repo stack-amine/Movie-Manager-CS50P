@@ -1,7 +1,4 @@
-"""
-my edX username: MM_2407_4DVD
-my GitHub username: @stack-amine
-"""
+
 import csv
 import sys
 import os
