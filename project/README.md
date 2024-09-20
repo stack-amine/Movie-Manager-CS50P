@@ -1,7 +1,5 @@
 # Movie Manager
 
-#### Video Demo: <https://youtu.be/GezL1EXTBi4>
-
 ## Description
 
 The **Movie Manager** is a command-line application designed to help users manage their personal movie collections efficiently. This program allows users to load all movies as needed. The application is built using Python and utilizes CSV file for data storage, providing a simple and effective way to maintain the movie database.
